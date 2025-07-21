@@ -1,3 +1,6 @@
+from setuptools import find_packages,setup
+
+
 setup(
     name="application_form",
     version='0.1',
