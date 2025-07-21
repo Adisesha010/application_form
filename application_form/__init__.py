@@ -1,1 +1,1 @@
-from .core import form
+from .core import my_form
