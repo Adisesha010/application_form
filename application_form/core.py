@@ -1,5 +1,4 @@
-import re
-def form(name,age,gender,course,dob,f_name,m_name,adrs):
+def form():
     name=input("Enter the name of the applicant:")
     age=int(input("Enter the age of the applicant:"))
     gender=input("Enter the Gender(Male/Female/others):")
