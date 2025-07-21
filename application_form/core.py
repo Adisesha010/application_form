@@ -1,4 +1,4 @@
-def form():
+def my_form():
     form_data={
         "name":input("Enter the name of the applicant:"),
         "age":int(input("Enter the age of the applicant:")),
